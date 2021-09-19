@@ -19,6 +19,7 @@ ymy nur dan 333
 Ana menü penceresinde Kayıt listeleme seçeneği seçildiğinde “veriler.txt” dosyası satır satır okunur. Her satırdaki ad, soyad ve telefon numarası RichTextBox’a aşağıdaki kurallara göre yazılacaktır.
 
 Kurallar:
+
 •	Okunan satırda ilk karakter ‘k’ ise ad kırmızı, ‘m’ ise ad mavi, ‘y’ ise ad yeşil renkte 
 
 •	Okunan satırda ikinci karakter ‘k’ ise soyad kırmızı, ‘m’ ise soyad mavi, ‘y’ ise soyad yeşil renkte 
@@ -27,5 +28,6 @@ Kurallar:
 
 •	İlk satırdan başlayarak tek satırlar kalın, çift satırlar kalın olmayan şekilde yazılacaktır.
 
+![deger](https://user-images.githubusercontent.com/36795459/133934806-a72dc8d0-902c-4158-8d07-60f6f800a7bb.png)
 
  
